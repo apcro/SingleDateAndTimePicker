@@ -123,7 +123,7 @@ And change some colors
 new SingleDateAndTimePickerDialog.Builder(context)
             .backgroundColor(Color.BLACK)
             .mainColor(Color.GREEN)
-            .titleColor(Color.WHITE)
+            .titleTextColor(Color.WHITE)
             .display();
 ```
 
